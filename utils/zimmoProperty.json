@@ -1,0 +1,123 @@
+//in detail page
+
+$(function() {
+    app.start({
+        el: $('body'),
+        property: {
+            uuid: 'd513dc76-3aa1-47b8-8a12-72c5edeb9138',
+            code: 'KLVLA',
+            subtype: 'Penthouse',
+            type: 'Appartement',
+            type_id: '1',
+            status: 'general.status.for_sale',
+            status_id: '1',
+            prijs: 475000.00,
+            straat: '',
+            nummer: '',
+            gemeente: 'Forest',
+            address: '',
+            aantal_slaapkamers: '3',
+            verwarming: '0',
+            woonopp: '',
+            grondopp: '135',
+            postcode: '1190',
+            lat: '50.80874',
+            lon: '4.31433',
+            reloadOffice: true,
+            bouwjaar: '',
+            constructionType: '',
+            renovatiejaar: '2022',
+            nieuwbouw: false,
+            zimmo_kantoor_id: '953',
+
+
+//OR in listing page
+
+<script>
+    $(function() {
+        app.start({
+            search: {
+                "filter": {
+                    "status": {
+                        "in": ["FOR_SALE", "TAKE_OVER"]
+                    },
+                    "category": {
+                        "in": ["APARTMENT", "HOUSE"]
+                    }
+                },
+                "paging": {
+                    "from": 0,
+                    "size": 17
+                },
+                "sorting": [{
+                    "type": "RANKING_SCORE",
+                    "order": "DESC"
+                }]
+            },
+            properties: [{
+                "particulier_pand_id": null,
+                "code": "KLVLA",
+                "uuid": "d513dc76-3aa1-47b8-8a12-72c5edeb9138",
+                "type": "Appartement",
+                "type_id": "1",
+                "status": "general.status.for_sale",
+                "status_id": "1",
+                "hoofdFoto": "https:\/\/files.zimmo.be\/5c7YeSd1ZcyGLr99P4bx_XJL9lI=\/828x618\/filters:image-format(pjpg)\/68\/af\/97a9-b14b-4e05-bc48-ad3f4f106b69\/abbd377b66dbd6373527fdeaa7f64772_9502b3b74a_2560-original.jpg",
+                "b_woonopp": "",
+                "toegevoegd": "1708498638",
+                "slaapkamers": "3",
+                "nieuwbouw": "0",
+                "prijs": "475000",
+                "zprijs": null,
+                "address": "",
+                "gemeente": "Vorst",
+                "postcode": "1190",
+                "lat": "50.808740000",
+                "lon": "4.314330000",
+                "parcel_id": null,
+                "logo": "https:\/\/files.zimmo.be\/6m5BMwHW8tdpMwFnYV8NOllrgXE=\/filters:image-format(pjpg)\/48\/19\/5b9e-eadb-4efc-84b5-28737d2ef42b\/L_953.gif",
+                "proj_id": "0",
+                "advertiser": {
+                    "name": "EURORENT",
+                    "phone": "+32 2 646 26 86",
+                    "mobile": null,
+                    "showEmail": 1,
+                    "officeType": null,
+                    "useZimmoDetail": false,
+                    "pictureZoomPercentage": null,
+                    "pictureLogoPosition": null,
+                    "pictureApplyMainOnly": null,
+                    "officebox": true,
+                    "officebox_url": "https:\/\/www.zimmo.be\/fr\/agence-immobiliere\/elsene-1050\/eurorent-22185\/",
+                    "name_prefix": "",
+                    "logo": "https:\/\/files.zimmo.be\/6m5BMwHW8tdpMwFnYV8NOllrgXE=\/filters:image-format(pjpg)\/48\/19\/5b9e-eadb-4efc-84b5-28737d2ef42b\/L_953.gif",
+                    "website": "www.eurorent.com",
+                    "postalCode": "1050",
+                    "city": "Elsene",
+                    "address": "Chauss\u00e9e De Vleurgat 177",
+                    "forRent": null,
+                    "forSale": null,
+                    "officebox_tekoop": "https:\/\/www.zimmo.be\/fr\/agence-immobiliere\/elsene-1050\/eurorent-22185\/a-vendre\/",
+                    "officebox_tehuur": "https:\/\/www.zimmo.be\/fr\/agence-immobiliere\/elsene-1050\/eurorent-22185\/a-louer\/"
+                },
+                "favoriet": false,
+                "archief": "0",
+                "a_beschrijf": "",
+                "fotoAmount": 13,
+                "isPromoted": true,
+                "subtype_naam": "Penthouse",
+                "sticker": "",
+                "price_drop_date": "",
+                "zimmo_kantoor_id": "953",
+                "plus": "0",
+                "energyWaarde": "",
+                "energyLabel": "",
+                "energyLabelCategory": "",
+                "html": "",
+                "propertyItemLogo": null,
+                "province": "R\u00e9gion de Bruxelles-Capitale",
+                "isPublished": false,
+                "url": "\/fr\/forest-1190\/a-vendre\/appartement\/KLVLA\/",
+                "firstImages": ["https:\/\/files.zimmo.be\/5c7YeSd1ZcyGLr99P4bx_XJL9lI=\/828x618\/filters:image-format(pjpg)\/68\/af\/97a9-b14b-4e05-bc48-ad3f4f106b69\/abbd377b66dbd6373527fdeaa7f64772_9502b3b74a_2560-original.jpg", "https:\/\/files.zimmo.be\/jryh648YM-hpFluAbT1xt3gf5-o=\/828x618\/filters:image-format(pjpg)\/1d\/b5\/87ac-e282-42ec-9dfe-d80eb3fda646\/5ddf592551ee99ffcd216dadde28e7b6_2ea444b975_2560-original.jpg", "https:\/\/files.zimmo.be\/sbY6id2u3FPXOmnWG9OxC2cEPzE=\/828x618\/filters:image-format(pjpg)\/5f\/39\/b407-de6d-4492-817d-1e05e8b4ca21\/7435eb907ac1ee38be964bec78525536_0dbc550450_2560-original.jpg", "https:\/\/files.zimmo.be\/TJW2rD9n0pa1EvyrD6sAx8HUuSA=\/828x618\/filters:image-format(pjpg)\/fa\/ff\/a071-037a-4f06-beaa-21fcd525b435\/7264e708feff00d40e6f49b611e6be3c_8d2f71792c_2560-original.jpg", "https:\/\/files.zimmo.be\/ikcDMg_Ym_qEFDEVgrG2IHcMfyI=\/828x618\/filters:image-format(pjpg)\/e2\/bc\/73a7-00bd-4adc-8b34-6834cd11c9b4\/78f8fe5399e7240f7763594352766733_48b3ffd918_2560-original.jpg"],
+                "pand_url": "\/fr\/forest-1190\/a-vendre\/appartement\/KLVLA\/"
+            }, {

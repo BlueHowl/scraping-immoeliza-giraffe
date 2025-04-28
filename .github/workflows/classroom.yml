@@ -1,0 +1,27 @@
+name: GitHub Classroom Workflow
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  checks: write
+  actions: read
+  contents: read
+
+jobs:
+  build:
+    name: Autograding 
+    runs-on: ubuntu-latest
+    steps:
+      - run: pip install pytest pandas
+      - uses: actions/checkout@v2
+      - shell: bash
+        run: |
+          ls -lah
+      ## tests that are mandatory (build fails if these tests fail)
+      - run: pytest tests/test_data.py::test_csv_exists 
+      - run: pytest tests/test_data.py::test_columns 
+      ## autograding with points and tests that are not mandatory
+      - uses: education/autograding@v1
+        continue-on-error: true

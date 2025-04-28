@@ -1,0 +1,10 @@
+List all houses :
+
+Immoweb :
+https://www.immoweb.be/fr/recherche/maison-et-appartement/a-vendre?countries=BE&isALifeAnnuitySale=false&page=1
+
+Zimmo : (Pas trouvé option exclure les viagers)
+https://www.zimmo.be/fr/rechercher/?search=eyJmaWx0ZXIiOnsic3RhdHVzIjp7ImluIjpbIkZPUl9TQUxFIiwiVEFLRV9PVkVSIl19LCJjYXRlZ29yeSI6eyJpbiI6WyJBUEFSVE1FTlQiLCJIT1VTRSJdfSwiemltbW9Db2RlIjp7Im5vdEluIjpbIjEwMDRMNEEiLCJMM0kxRyIsIktWTkJFIiwiS1kyVVgiXX19LCJwYWdpbmciOnsiZnJvbSI6MCwic2l6ZSI6MTd9LCJzb3J0aW5nIjpbeyJ0eXBlIjoiUkFOS0lOR19TQ09SRSIsIm9yZGVyIjoiREVTQyJ9XX0%3D&p=1#gallery
+
+Immovlan :
+https://immovlan.be/fr/immobilier?transactiontypes=a-vendre,en-vente-publique&propertytypes=maison,appartement&islifeannuity=no&page=41

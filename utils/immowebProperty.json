@@ -1,0 +1,241 @@
+{
+    "id": 20651216,
+    "cluster": null,
+    "property": {
+      "type": "HOUSE",
+      "subtype": "HOUSE",
+      "title": "Maison familiale avec 3 chambres et jardin de ville",
+      "description": "PURES | MAISON FAMILIALE AVEC TROIS CHAMBRES À COUCHER ET JARDIN DE VILLE ORIENTÉ SUD-EST AVEC TERRASSE SPACIEUSE | EPC C |\r\nRez-de-chaussée : grand hall d'entrée avec vestiaire - couloir - salon spacieux et lumineux avec salle à manger - salle de bains avec douche et lavabo - toilettes séparées - cuisine entièrement équipée avec de nombreux rangements - jardin de ville orienté sud-est avec une grande terrasse couverte - débarras sur deux niveaux.\r\nPremier étage : long hall de nuit avec de nombreux espaces de rangement - 2 chambres spacieuses - salle de bains avec baignoire et lavabo - toilettes séparées - dressing multifonctionnel.\r\nDeuxième étage : Vaste couloir avec accès à une grande chambre/chambre mansardée.\r\nAtouts supplémentaires :\r\n*Grande surface habitable (202m²)\r\n*Terrasse couverte avec jardin orienté sud\r\n*8 panneaux solaires\r\n*Electricité conforme jusqu'en 2038\r\n*Possibilité de diviser en appartements\r\n*2 salles de bains\r\n*Cave sèche et utilisable avec débarras\r\n*Nombreuses places de parking à proximité\r\n*Situé à proximité des commerces, des écoles et des transports publics",
+      "name": null,
+      "isHolidayProperty": null,
+      "bedroomCount": 3,
+      "bedrooms": [
+        {
+          "surface": 14
+        },
+        {
+          "surface": 14
+        }
+      ],
+      "bathroomCount": 2,
+      "bathrooms": [
+        
+      ],
+      "location": {
+        "country": "Belgique",
+        "region": "Flandres",
+        "province": "Anvers",
+        "district": "Malines",
+        "locality": "PUURS",
+        "postalCode": "2870",
+        "street": "Palingstraat",
+        "number": "91",
+        "box": null,
+        "propertyName": null,
+        "floor": null,
+        "latitude": 51.0725513,
+        "longitude": 4.280106,
+        "distance": null,
+        "approximated": null,
+        "regionCode": "FLANDERS",
+        "type": null,
+        "hasSeaView": null,
+        "pointsOfInterest": null,
+        "placeName": null
+      },
+      "netHabitableSurface": 202,
+      "roomCount": null,
+      "monthlyCosts": 0,
+      "attic": null,
+      "hasAttic": null,
+      "basement": {
+        "surface": null
+      },
+      "hasBasement": true,
+      "hasDressingRoom": null,
+      "diningRoom": null,
+      "hasDiningRoom": null,
+      "building": {
+        "annexCount": null,
+        "condition": "GOOD",
+        "constructionYear": 1959,
+        "facadeCount": 2,
+        "floorCount": null,
+        "streetFacadeWidth": 6
+      },
+      "propertyCertificates": {
+        "builtPlanStatus": "NO",
+        "globalInsulationLevel": null,
+        "oilTankCertificateStatus": "NOT_SPECIFIED",
+        "primaryEnergyConsumptionLevel": 0,
+        "hasAsbestosCertificate": true,
+        "hasElectricalInstallationComplianceCertificate": true
+      },
+      "hasCaretakerOrConcierge": null,
+      "hasDisabledAccess": null,
+      "hasLift": null,
+      "constructionPermit": {
+        "constructionType": null,
+        "floodZoneType": "NON_FLOOD_ZONE",
+        "isObtained": true,
+        "hasObligationToConstruct": null,
+        "hasPlotDivisionAuthorization": true,
+        "hasPossiblePriorityPurchaseRight": false,
+        "isBreachingUrbanPlanningRegulation": null,
+        "floodZoneIconUrl": null,
+        "totalBuildableGroundFloorSurface": 0,
+        "urbanPlanningInformation": null,
+        "pScore": "A",
+        "gScore": "A"
+      },
+      "energy": {
+        "heatingType": "GAS",
+        "hasHeatPump": null,
+        "hasPhotovoltaicPanels": null,
+        "hasThermicPanels": null,
+        "hasCollectiveWaterHeater": null,
+        "hasDoubleGlazing": true,
+        "performance": null
+      },
+      "kitchen": {
+        "surface": 8,
+        "type": "INSTALLED",
+        "hasOven": null,
+        "hasMicroWaveOven": null,
+        "hasDishwasher": null,
+        "hasWashingMachine": null,
+        "hasFridge": null,
+        "hasFreezer": null,
+        "hasSteamOven": null
+      },
+      "land": {
+        "hasGasWaterElectricityConnection": true,
+        "hasPlotToRear": null,
+        "isFacingStreet": null,
+        "isFlat": null,
+        "isWooded": null,
+        "landWidth": 6,
+        "latestUseDesignation": "RES",
+        "rearLand": null,
+        "sewerConnection": "CONNECTED",
+        "surface": 120
+      },
+      "laundryRoom": null,
+      "hasLaundryRoom": null,
+      "livingRoom": {
+        "surface": 30
+      },
+      "hasLivingRoom": true,
+      "isFirstOccupation": null,
+      "hasBalcony": null,
+      "hasBarbecue": null,
+      "hasGarden": true,
+      "gardenSurface": 21,
+      "gardenOrientation": "SOUTH_EAST",
+      "parkingCountIndoor": null,
+      "parkingCountOutdoor": null,
+      "parkingCountClosedBox": null,
+      "hasAirConditioning": null,
+      "hasArmoredDoor": null,
+      "hasVisiophone": null,
+      "hasSecureAccessAlarm": null,
+      "hasCableTV": true,
+      "hasDoorPhone": null,
+      "hasInternet": null,
+      "showerRoomCount": 0,
+      "showerRooms": [
+        
+      ],
+      "specificities": null,
+      "toiletCount": 2,
+      "toilets": [
+        
+      ],
+      "hasFitnessRoom": null,
+      "hasTennisCourt": null,
+      "hasSwimmingPool": null,
+      "hasSauna": null,
+      "hasJacuzzi": null,
+      "hasHammam": null,
+      "bedroomSurface": null,
+      "alternativeDescriptions": {
+        "en": "PURES | READY TO MOVE IN FAMILY HOME WITH THREE BEDROOMS AND SOUTHEAST FACING CITY GARDEN WITH SPACIOUS TERRACE | EPC C |\r\nLayout as follows : ground floor : spacious entrance hall with checkroom - hallway - spacious and bright living room with dining room - bathroom with shower and sink - separate toilet - fully installed kitchen with plenty of storage - southeast facing city garden with a large covered terrace - storage room with two floors.\r\nSecond floor : Long night hall with ample storage space - 2 spacious bedrooms - bathroom with bath and sink - separate toilet - multifunctional dressing room.\r\nSecond floor : Spacious hallway with access to a large attic room/bedroom.\r\nAdditional assets:\r\n*Lots of living space (202m²)\r\n*Covered terrace with south facing garden\r\n*8 solar panels\r\n*Electricity compliant until 2038\r\n*Possibility to divide into apartments\r\n*2 bathrooms\r\n*Dry and usable cellar with storage\r\n*Lots of parking space nearby\r\n*Located near stores, schools and public transportation",
+        "nl": "PUURS | INSTAPKLARE GEZINSWONING MET DRIE SLAAPKAMERS EN ZUIDOOST GERICHTE STADSTUIN MET RUIM TERRAS | EPC C | \r\nIndeling als volgt : gelijkvloers : ruime inkomhal met vestiaire - hal - ruime en lichtrijke leefruimte met eetkamer - badkamer met douche en lavabo - apart toilet - volledig geïnstalleerde keuken met veel opbergplaats - zuidoost gerichte stadstuin met een groot overdekt terras - bergplaats met twee verdiepingen.\r\nEerste verdieping : Lange nachthal met voldoende bergruimte - 2 ruime slaapkamers - badkamer met bad en lavabo - apart toilet -  multifunctionele dressing.\r\nTweede verdieping: Royale hal met toegang tot een grote zolderkamer/slaapkamer. \r\nExtra troeven:\r\n*Veel bewoonbare oppervlakte (202m²)\r\n*Overdekt terras met zuid gerichte tuin \r\n*8 zonnepanelen \r\n*Elektriciteit conform tot 2038\r\n*Mogelijkheid tot opdelen in appartementen \r\n*2 badkamers\r\n*Droge en bruikbare kelder met opslagplaats\r\n*Veel parkeerplaats in de buurt\r\n*Gelegen in de nabijheid van winkels, scholen en openbaar vervoer"
+      },
+      "habitableUnitCount": null,
+      "fireplaceCount": null,
+      "fireplaceExists": false,
+      "hasTerrace": true,
+      "terraceSurface": 18,
+      "terraceOrientation": null
+    },
+    "publication": {
+      "creationDate": "2025-04-08T18:11:10.407Z",
+      "expirationDate": null,
+      "publisherId": null,
+      "visualisationOption": "XL",
+      "lastModificationDate": "2025-04-09T12:14:51.134Z"
+    },
+    "transaction": {
+      "type": "FOR_SALE",
+      "subtype": "BUY_REGULAR",
+      "availabilityPeriodType": "UPON_EXCHANGE_OF_DEEDS",
+      "availabilityDate": null,
+      "certificates": {
+        "carbonEmission": null,
+        "primaryEnergyConsumptionPerSqm": 229,
+        "primaryEnergyConsumptionYearly": null,
+        "epcDescription": null,
+        "epcReference": "20240903-0003357448-RES-1",
+        "epcScore": "C",
+        "epcUrl": "https://media.immowebstatic.be/epc/pics/peb/fla/c.png",
+        "renovationObligation": false
+      },
+      "rental": null,
+      "sale": {
+        "price": 365000,
+        "isSubjectToVat": false,
+        "cadastralIncome": 570,
+        "publicSale": null,
+        "pricePerSqm": null,
+        "oldPrice": null,
+        "lifeAnnuity": null,
+        "hasStartingPrice": null,
+        "isFurnished": null,
+        "homeToBuild": null,
+        "newBuildsTotalPrice": "",
+        "newBuildsVAT": "",
+        "newBuildsLandPrice": "",
+        "newBuildsLandTaxes": ""
+      }
+    },
+    "priceType": null,
+    "price": {
+      "type": "residential_sale",
+      "mainValue": 365000,
+      "alternativeValue": null,
+      "additionalValue": null,
+      "oldValue": null,
+      "minRangeValue": null,
+      "maxRangeValue": null,
+      "alternativeDisplayPrice": "",
+      "oldDisplayPrice": null,
+      "shortDisplayPrice": "365K&nbsp;€",
+      "accessibilityPrice": "365000€",
+      "label": "Prix",
+      "date": null,
+      "language": "fr"
+    },
+    "externalReference": "9498 - TK2411-07",
+    "statistics": {
+      "bookmarkCount": 0,
+      "viewCount": 350,
+      "alertPrice": null,
+      "creationDate": null,
+      "description": null,
+      "isAlertEmailSet": null,
+      "rating": null,
+      "wasOwnerContacted": null,
+      "wasPropertyVisited": null
+    }
+  }

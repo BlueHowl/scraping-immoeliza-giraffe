@@ -1,0 +1,40 @@
+{
+  "tests": [
+    {
+      "name": "test csv",
+      "run": "pytest tests/test_data.py::test_csv_exists",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "test column names",
+      "run": "pytest tests/test_data.py::test_columns",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "test data",
+      "run": "pytest tests/test_data.py::test_data",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "test types",
+      "run": "pytest tests/test_data.py::test_data_types",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
